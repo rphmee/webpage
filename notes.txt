@@ -1,0 +1,7 @@
+DNS: domain name system
+    -converts web domain names into IP addresses
+    -IP V4: original internet, 5 triplets 0-255
+        -all used up
+    -IP V6: ####:####:####:...:####
+        -IP V4 sites are translated to IP V6
+
