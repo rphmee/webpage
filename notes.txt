@@ -5,3 +5,7 @@ DNS: domain name system
     -IP V6: ####:####:####:...:####
         -IP V4 sites are translated to IP V6
 
+Static Site
+    -HTML, CSS, and JS are returned as is from the server
+        -no minification, bundling, etc.
+        
