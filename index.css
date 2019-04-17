@@ -4,6 +4,8 @@ html {
 
 body {
   margin: 0 auto;
+  max-width: 90%;
+  background-color: whitesmoke;
 }
 
 .myHeader {
@@ -21,6 +23,8 @@ p {
 
 .myTable {
   text-align: center;
+  font-size: 14px;
+  text-decoration: underline;
 }
 
 tr {
