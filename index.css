@@ -14,3 +14,11 @@ p {
   font-style: oblique;
   text-align: center;
 }
+
+.myTable {
+  text-align: center;
+}
+
+tr {
+  font-size: 10px;
+}
