@@ -1,12 +1,18 @@
+body {
+  margin: 0 auto;
+}
+
 p {
   font-family: Impact, Haettenschweiler, "Arial Narrow Bold", sans-serif;
   font-style: oblique;
+  text-align: center;
 }
 
 div {
   font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
     "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
   font-style: oblique;
+  background-color: gold;
 }
 
 .header {
