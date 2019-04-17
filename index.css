@@ -5,6 +5,7 @@ html {
 body {
   margin: 0 auto;
   max-width: 90%;
+  height: 100%;
   background-color: whitesmoke;
 }
 
@@ -25,6 +26,7 @@ p {
   text-align: center;
   font-size: 14px;
   text-decoration: underline;
+  margin: auto;
 }
 
 tr {
