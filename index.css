@@ -23,11 +23,11 @@ p {
 }
 
 .myTable {
-  position: absolute;
+  position: relative;
   text-align: center;
   font-size: 14px;
   text-decoration: underline;
-  margin: auto;
+  margin: 0 auto;
 }
 
 tr {
