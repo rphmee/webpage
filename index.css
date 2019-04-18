@@ -1,4 +1,4 @@
-html {
+body {
   background-color: black;
 }
 
@@ -23,7 +23,7 @@ p {
 }
 
 .myTable {
-  position: relative;
+  position: absolute;
   text-align: center;
   font-size: 14px;
   text-decoration: underline;
