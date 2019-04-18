@@ -2,11 +2,11 @@ html {
   background-color: black;
 }
 
-body {
-  margin: 0 auto;
+.primaryArea {
   max-width: 90%;
-  max-height: inherit;
   background-color: whitesmoke;
+  max-height: 100%;
+  margin: 0 auto;
 }
 
 .myHeader {
